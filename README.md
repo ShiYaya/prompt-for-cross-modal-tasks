@@ -10,3 +10,4 @@
 ### 基于prompt的生成式VLM方法
 - VL-T5: Unifying Vision-and-Language Tasks via Text Generation    
 - Multimodal Few-Shot Learning with Frozen Language Models    
+- ClipCap: CLIP Prefix for Image Captioning
