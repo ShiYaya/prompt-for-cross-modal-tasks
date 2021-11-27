@@ -1,4 +1,4 @@
-# prompt-for-cross-modal-tasks
+# prompt-for-vision-and-language-tasks
 
 
 ### 基于prompt的判别式VLM方法
