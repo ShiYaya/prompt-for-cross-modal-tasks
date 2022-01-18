@@ -1,4 +1,4 @@
-# prompt-for-vision-related-tasks
+# prompt for cross modal tasks
 
 
 ### 基于prompt的判别式方法
