@@ -19,6 +19,7 @@
 - Multimodal Few-Shot Learning with Frozen Language Models    
 - ClipCap: CLIP Prefix for Image Captioning
 - Multimodal Conditionality for Natural Language Generation
+- VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning
 
 
 ## 相关博客
