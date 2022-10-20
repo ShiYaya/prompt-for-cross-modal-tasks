@@ -20,6 +20,8 @@
 - ClipCap: CLIP Prefix for Image Captioning
 - Multimodal Conditionality for Natural Language Generation
 - VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning
+- I-tuning: Tuning language models with image for caption generation
+- SMALLCAP: Lightweight Image Captioning Prompted with Retrieval Augmentation
 
 
 ## 相关博客
