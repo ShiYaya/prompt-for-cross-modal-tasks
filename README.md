@@ -13,6 +13,8 @@
 - A Good Prompt Is Worth Millions of Parameters? Low-resource Prompt-based Learning for Vision-Language Models
 - Align and Prompt: Video-and-Language Pre-training with Entity Prompts
 - Unified Multimodal Pre-training and Prompt-based Tuning for Vision-Language Understanding and Generation
+- A Good Prompt Is Worth Millions of Parameters: Low-resource Prompt-based Learning for Vision-Language Models
+
 
 ### 基于prompt的生成式方法
 - VL-T5: Unifying Vision-and-Language Tasks via Text Generation    
